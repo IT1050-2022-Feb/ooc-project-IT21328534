@@ -1,5 +1,5 @@
-// IT number
-//name 
+// IT21327094
+// Somarathna D K 
 
 class Manager {
 private:
